@@ -1,1 +1,1 @@
-print "Second code file code2 + changes from local2"
+print "Second code file code2 + changes resolved"
