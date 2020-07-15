@@ -1,2 +1,3 @@
 print "Second code file code2"
-print "updated this change in master"
+print "fixed merge in local on branch master"
+print "Second code file code2 + changes merged in local"
